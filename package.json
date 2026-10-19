@@ -1,0 +1,27 @@
+{
+  "name": "@nodejs/microtel",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Node.js OpenTelemetry built-in support",
+  "license": "MIT",
+  "author": "Node.js contributors",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejs/microtel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodejs/microtel/issues"
+  },
+  "homepage": "https://github.com/nodejs/microtel#readme",
+  "keywords": [
+    "opentelemetry",
+    "tracing",
+    "diagnostics_channel"
+  ],
+  "engines": {
+    "node": ">=24.6.0"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
